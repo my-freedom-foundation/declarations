@@ -1,0 +1,16 @@
+body { font-family: Georgia, "Songti SC", "Noto Serif CJK SC", serif; line-height: 1.7; }
+h1, h2, h3 { line-height: 1.35; font-weight: bold; }
+h1 { margin-top: 1.5em; margin-bottom: 1em; }
+h2 { margin-top: 2em; }
+p { margin: 0 0 1em; orphans: 2; widows: 2; }
+a { color: #78352f; overflow-wrap: anywhere; }
+.citation { vertical-align: super; font-size: 0.75em; text-decoration: none; }
+.return-link { font-size: 0.85em; }
+blockquote { margin-left: 1em; padding-left: 1em; border-left: 0.15em solid #aaa; }
+table, tbody, tr, td { display: block; }
+table { width: 100%; font-size: 0.95em; }
+thead { display: none; }
+tr { margin: 1em 0; padding-bottom: 1em; border-bottom: 1px solid #ccc; }
+td { padding: 0.2em 0; text-align: left; }
+td:first-child { font-size: 0.8em; }
+td:nth-child(2) { font-weight: bold; }
