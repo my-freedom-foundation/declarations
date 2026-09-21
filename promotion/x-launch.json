@@ -1,7 +1,7 @@
 {
   "account": "TnT39530675",
   "book_url": "https://my-freedom-foundation.github.io/declarations/",
-  "status": "not_scheduled",
+  "status": "scheduled",
   "release_plan": {
     "timezone": "America/New_York",
     "start_date": "2026-09-22",
@@ -20,7 +20,9 @@
       "language": "en",
       "scheduled_for": "2026-09-22T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-22T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Tue, Sep 22, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-01",
@@ -31,7 +33,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-22T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-23T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Tue, Sep 22, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-02",
@@ -42,7 +46,9 @@
       "language": "en",
       "scheduled_for": "2026-09-23T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-23T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Wed, Sep 23, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-02",
@@ -53,7 +59,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-23T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-24T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Wed, Sep 23, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-03",
@@ -64,7 +72,9 @@
       "language": "en",
       "scheduled_for": "2026-09-24T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-24T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Thu, Sep 24, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-03",
@@ -75,7 +85,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-24T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-25T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Thu, Sep 24, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-04",
@@ -86,7 +98,9 @@
       "language": "en",
       "scheduled_for": "2026-09-25T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-25T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Fri, Sep 25, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-04",
@@ -97,7 +111,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-25T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-26T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Fri, Sep 25, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-05",
@@ -108,7 +124,9 @@
       "language": "en",
       "scheduled_for": "2026-09-26T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-26T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Sat, Sep 26, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-05",
@@ -119,7 +137,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-26T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-27T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Sat, Sep 26, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-06",
@@ -130,7 +150,9 @@
       "language": "en",
       "scheduled_for": "2026-09-27T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-27T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Sun, Sep 27, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-06",
@@ -141,7 +163,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-27T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-28T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Sun, Sep 27, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-07",
@@ -152,7 +176,9 @@
       "language": "en",
       "scheduled_for": "2026-09-28T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-28T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Mon, Sep 28, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-07",
@@ -163,7 +189,9 @@
       "language": "zh",
       "scheduled_for": "2026-09-28T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-29T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Mon, Sep 28, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "en-08",
@@ -174,7 +202,9 @@
       "language": "en",
       "scheduled_for": "2026-09-29T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-29T13:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Tue, Sep 29, 2026 at 9:00 AM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     },
     {
       "id": "zh-08",
@@ -185,7 +215,18 @@
       "language": "zh",
       "scheduled_for": "2026-09-29T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-30T00:00:00+00:00",
-      "status": "pending"
+      "status": "scheduled",
+      "x_confirmation": "Will send on Tue, Sep 29, 2026 at 8:00 PM",
+      "verified_at_utc": "2026-09-21T18:28:18+00:00"
     }
-  ]
+  ],
+  "verification": {
+    "verified_at_utc": "2026-09-21T18:28:18+00:00",
+    "method": "Read back all 16 entries in the signed-in account’s native X Scheduled queue and matched exact text, URLs, dates and times.",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "scheduled_post_count": 16,
+    "duplicate_count": 0,
+    "x_displayed_timezone": "Eastern Daylight Time",
+    "publication_status": "Scheduled for future publication; not yet published."
+  }
 }

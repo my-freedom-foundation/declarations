@@ -2,7 +2,7 @@
 
 Account: **@TnT39530675**. Format: **16 standalone posts**, one English and one Chinese each day for eight days. Time zone: **America/New_York** (EDT, UTC−04:00 for these dates). The release cadence was selected by the user; times are 09:00 English and 20:00 Chinese.
 
-**Status: prepared; not yet scheduled in X.** Browser access is being completed. The dates below are the intended schedule, not confirmation that X has accepted the posts.
+**Status: all 16 posts scheduled in X and verified on September 21, 2026.** Every saved entry matched the exact text, URL, date, and time below, with no duplicates. These are scheduled posts; publication begins September 22. View or edit them in [X’s Scheduled queue](https://x.com/compose/post/unsent/scheduled) while signed in as @TnT39530675. X will publish them without this Codex session remaining open.
 
 ## Release calendar
 
