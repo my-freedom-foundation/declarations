@@ -1,0 +1,151 @@
+{
+  "source_commit": "0cc3d5e",
+  "source_revision_date": "2026-09-17",
+  "transformation": "Only local research links are redirected to the matching reader notes. Prose is unchanged.",
+  "files": {
+    "manuscript/zh/00-reading-guide.md": {
+      "source_sha256": "cdedf48f62cb436b8f97de303675aff83a57b5ef12a74261a6e21a41b0426b2b",
+      "import_sha256": "cdedf48f62cb436b8f97de303675aff83a57b5ef12a74261a6e21a41b0426b2b"
+    },
+    "manuscript/zh/03-slaveholders-in-a-free-republic.md": {
+      "source_sha256": "4ca78ae369fd9084cae23078ea5898b8758c3ff09928c9a8122cb5ea1881d40b",
+      "import_sha256": "2fcaba99537e1d61329bddbd964a70694df0b70ff33cb28bcde8abd3466d5540"
+    },
+    "manuscript/zh/92-declaration-annotated.md": {
+      "source_sha256": "bacaef074786c9d3f7b60c5b13f347e84fe7468efde22440e3c65f58c174ccb7",
+      "import_sha256": "a85bfb221d86baf868201754576df3b2018f6f86740cffe88b60eec001e788f4"
+    },
+    "manuscript/zh/04-in-the-name-of-equality.md": {
+      "source_sha256": "7c66e41aea0c53671bbf79ad0dcc0dc8596c35743874c9e7562cf17619dc8a2e",
+      "import_sha256": "6fd498e086f3fb201bb8b49304de84999f400d10ade969e0899f2600a891795b"
+    },
+    "manuscript/zh/10-who-decides-what-the-public-knows.md": {
+      "source_sha256": "1fbf75eda0168b4133114044b28bd3a663e9c2f35f25619295eccd4dfe88cad8",
+      "import_sha256": "191c49d787e5629e817df0243eaa3cfbae31847c9a9d82079ff15b507b4aded4"
+    },
+    "manuscript/zh/02-consent-of-the-governed.md": {
+      "source_sha256": "8e41bbf6bbb9fb84c6d5faeb8ed686da7ccb302c3bb6e2da5fee8c6e65548849",
+      "import_sha256": "6ee8a2d1033bb25f1c42187cc025106d9c5b1e5c46f7744ace6f23f3dd144ac4"
+    },
+    "manuscript/zh/91-glossary.md": {
+      "source_sha256": "c457e9712382f761d7aa7603d1c3ce8e65774a953e1a94fcf7b610ced26a4efa",
+      "import_sha256": "c457e9712382f761d7aa7603d1c3ce8e65774a953e1a94fcf7b610ced26a4efa"
+    },
+    "manuscript/zh/90-chronology.md": {
+      "source_sha256": "4d56f636a5aae3d0e9f8d598693c2832635781332007ed877ad66c1e5cc4691d",
+      "import_sha256": "8c37ec9a43f4adc233c488807bdc4802d6b949cbf5fff5215e4f5b6793980ebf"
+    },
+    "manuscript/zh/11-pandemic-evidence-and-responsibility.md": {
+      "source_sha256": "ecf5e4b0244dc5ddec19328ae369eb582ef89975876c56ad6df253cda2443195",
+      "import_sha256": "af8c2c88079d7658059ffb2ba3561b005eed0623ebed99af738d680c45a69d49"
+    },
+    "manuscript/zh/01-born-unequal.md": {
+      "source_sha256": "a01432c4a59308f1174d822a34dcef5c778a26271b85b3056e2ac345c378243a",
+      "import_sha256": "ab7a330a0be49c16ad5384595bd55a1c6d7d6ebfd88d75be8cefb1f3614d7e5b"
+    },
+    "manuscript/zh/93-notes.md": {
+      "source_sha256": "a2b2b98313b2a1071ffe43a0361d94afe78a3830bf675cebce0dc3fc89c01f97",
+      "import_sha256": "a2b2b98313b2a1071ffe43a0361d94afe78a3830bf675cebce0dc3fc89c01f97"
+    },
+    "manuscript/zh/07-family-organization-supreme-power.md": {
+      "source_sha256": "a09a58f63e1fa5350e83b0e8212e58b9ab3cfb975c9bf6df1f1665c97dd01279",
+      "import_sha256": "8ba4bd39c4d35d919f496eff349d8f1ec8fcb31e0a9d4c5159cd1bfc7f8284c6"
+    },
+    "manuscript/zh/00-preface.md": {
+      "source_sha256": "221e94a282df931ad119f862bb23fb78ed37dee6ba6d2eef876a61456de4b0d2",
+      "import_sha256": "221e94a282df931ad119f862bb23fb78ed37dee6ba6d2eef876a61456de4b0d2"
+    },
+    "manuscript/zh/06-open-markets-political-continuity.md": {
+      "source_sha256": "0774c28979112ef28db6ea23f044ec5d8f46b03bc675663ce2f34f1cd104a0d7",
+      "import_sha256": "ca97544b4d92c80446eac38180642d8477b43634240209865add384d429dd5ed"
+    },
+    "manuscript/zh/09-how-interests-bind-and-diverge.md": {
+      "source_sha256": "b72e7bad0f5d860fabb5a0244509fa4cd0669b5578ff29a5c2f10395034cdbda",
+      "import_sha256": "710d9fc45afd71c9a74a58911b1e2c38dc87f2043b8a02baa7fbf3e4c2a09403"
+    },
+    "manuscript/zh/08-hong-kong.md": {
+      "source_sha256": "cf6cb942bbad936802298fd8bb9516762605cadf93f88979347359afc66e99a8",
+      "import_sha256": "69513cf405d732b2ed03de996a22742c085c3f583a2862a5593ec3802c16bf69"
+    },
+    "manuscript/zh/12-what-freedom-requires.md": {
+      "source_sha256": "20e07fe1108bf436f05da419dcba5762b49b8b1b402c99733f881967770fcdb0",
+      "import_sha256": "f710f6aacd60df962949bc93fe1df7e48c32bd5f13b79b7346d5a615dee4d9a6"
+    },
+    "manuscript/zh/05-who-owns-the-state.md": {
+      "source_sha256": "3551401f34795aaf012c03e8ab5cf213a46595a583cb69954e71e86bb5b4bfab",
+      "import_sha256": "1ad887b7ccaaa7b3aa0524ffe932d906f0c455ff02bab7f40ae4ed3f164c3bcf"
+    },
+    "manuscript/en/00-reading-guide.md": {
+      "source_sha256": "28ec8566db979bb09f0ea4e99c7dd05c6a0455bfadf880758f35a9efe192533f",
+      "import_sha256": "28ec8566db979bb09f0ea4e99c7dd05c6a0455bfadf880758f35a9efe192533f"
+    },
+    "manuscript/en/03-slaveholders-in-a-free-republic.md": {
+      "source_sha256": "1da9582ebee64bd2a3a8e166c33f92c01822c110c23a44e6195aa2ac74de9a75",
+      "import_sha256": "6603e9ae2bdef5594b26202fbc3fb1669242ffe529f6b1d342f3d79cf5538a34"
+    },
+    "manuscript/en/92-declaration-annotated.md": {
+      "source_sha256": "a50974357ee91b7a8dbd9b13d3fe1bc5d52c0b78f318d7f06b1c74c84940e3ec",
+      "import_sha256": "f23f83adfa58d116570a3fd17340d997bb4e596f3db586cd0fe6f78c3dc56f4a"
+    },
+    "manuscript/en/04-in-the-name-of-equality.md": {
+      "source_sha256": "1d3af19ab9aa6f2206dc67ff1a944d1f4d87c71bb9ba81b81efe31ebb1ddf41b",
+      "import_sha256": "7174685491765740f851601faaab4c3ed448443c9c3d81d6f6534cf762a1f473"
+    },
+    "manuscript/en/10-who-decides-what-the-public-knows.md": {
+      "source_sha256": "81c238f84c8bf9473f291e5ee9c2f98da0f55fe879cd440390c69bdf0c38a6ad",
+      "import_sha256": "82659c78345985f5849350be64a0886e91dd522f942e06ce8d4b2165f0c6ab59"
+    },
+    "manuscript/en/02-consent-of-the-governed.md": {
+      "source_sha256": "d12abc0563f106284760e34643d490546822ffe4236a52e57e376ef72bb326cd",
+      "import_sha256": "4a3810c5b59fe4cab89897aba506af97f4009f1e9fb88cec921ed5cfb7ae6091"
+    },
+    "manuscript/en/91-glossary.md": {
+      "source_sha256": "09668c445ab5d50dc4ede5045c8990e65a61ffe16ed60fafd8ca9d7c0f1dd96b",
+      "import_sha256": "09668c445ab5d50dc4ede5045c8990e65a61ffe16ed60fafd8ca9d7c0f1dd96b"
+    },
+    "manuscript/en/90-chronology.md": {
+      "source_sha256": "a5ce42e813c43a9596d262ba2c506b5d5619ad84631988785afc69b72a5e3cb0",
+      "import_sha256": "5e490c53b127bff032022a40605ce35abdc22a9689e2aaa1b6481810b1ea684f"
+    },
+    "manuscript/en/11-pandemic-evidence-and-responsibility.md": {
+      "source_sha256": "ed0a090f1b0cec8663a6c9be6dbfbac356a6a9bc1ad7cba619968bd4f17a0070",
+      "import_sha256": "e7a47d0ac605b3e815b0294c86d986c447254ac95138ec5b8be7d8a0d8a3122b"
+    },
+    "manuscript/en/01-born-unequal.md": {
+      "source_sha256": "cb7af468d7a243d7373c1ff94a366b5da4966676fc3960e693745706cae853a2",
+      "import_sha256": "7c391a2eec3d24721c3d47267c7513b2735b50c3809ac00caf396d88e6317db2"
+    },
+    "manuscript/en/93-notes.md": {
+      "source_sha256": "db91070ef5e86eea8fc749fd9a76b0f2e9f01592ac75f48a0b6ebd5d31d68148",
+      "import_sha256": "db91070ef5e86eea8fc749fd9a76b0f2e9f01592ac75f48a0b6ebd5d31d68148"
+    },
+    "manuscript/en/07-family-organization-supreme-power.md": {
+      "source_sha256": "99e87ad05b0c93d01c4603cedb4a1996f17b3c1e4d5387ed62ce57dc415c481a",
+      "import_sha256": "1e55ad49dc6b8a8c76a67fb096c46d0bed91281605561a27dd50016eb55cf251"
+    },
+    "manuscript/en/00-preface.md": {
+      "source_sha256": "02aefa8951cf4ab883317bf936d449fde4d78d19ea6eabfdc72c35c47cb13dfe",
+      "import_sha256": "02aefa8951cf4ab883317bf936d449fde4d78d19ea6eabfdc72c35c47cb13dfe"
+    },
+    "manuscript/en/06-open-markets-political-continuity.md": {
+      "source_sha256": "0ec8a9824e55bbf8474f1efb600b61c34cc6412fd5cd8407f021b51cead4cbbd",
+      "import_sha256": "6f851e74cae3f34c779990055fa4e1c70cd591cf9d695e879d74c754d6ac905d"
+    },
+    "manuscript/en/09-how-interests-bind-and-diverge.md": {
+      "source_sha256": "9791e61c0d23a19b1145592fcb98ad6e483596cca421bd46fd2566acd9d7fe3a",
+      "import_sha256": "6feba67085480c2c647934e3b10b4c62165d85240a871d139d3ab499d31474e5"
+    },
+    "manuscript/en/08-hong-kong.md": {
+      "source_sha256": "fdeac7d02825b2302f79fc2f985b607c3caa272f73204a92f56d7d7a0edf0ba8",
+      "import_sha256": "e79531d9c5a67db63321dcf86585f83d2f8b4c4260b41465da095fa6d027f67b"
+    },
+    "manuscript/en/12-what-freedom-requires.md": {
+      "source_sha256": "30645b5475152fe19b803ef111932255d1e935671b7bfaa4cf4f1e51aed8e088",
+      "import_sha256": "d919b70686209deb1d72c5e186a98b70311d37fdd2f6ffbef8f75be96c6aa7a9"
+    },
+    "manuscript/en/05-who-owns-the-state.md": {
+      "source_sha256": "20aef1e97d5033a6018cb1bfd8753af6ca8c1904c0c19ee3ea857c4a427367d5",
+      "import_sha256": "b10fa07da73cdd33f6b4803b300bd08e718825b43b144f3d8fe41541eba7e75f"
+    }
+  }
+}
