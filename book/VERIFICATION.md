@@ -59,3 +59,17 @@ Verification: Ruff formatting and lint pass; mypy passes all five source files; 
 A read-only Codex review found one issue in promotion bookkeeping: the current X verification still described the initial 16-post schedule after two announcements had published. Resolved by preserving `initial_scheduling_verification` separately and recording the current 14 scheduled / 2 published state. Counts and draft/published distinctions were then asserted against individual post statuses. No unresolved review finding remains.
 
 The two revised launch texts are local drafts, not replacement publications. Published-post deletion status is tracked in `promotion/x-launch.json`; the remaining 14 scheduled entries contain no old book title.
+
+## Original declaration reading pages — 23 September 2026
+
+The homepage's Simplified Chinese, Traditional Chinese and English declaration links now lead to `/original/zh-Hans/`, `/original/zh-Hant/` and `/original/en/` under the existing site base. Each page reads its original Markdown file and provides a link back to that file on GitHub. Serif typography, warm paper surfaces, a dark theme and a restrained reading column are confined to these pages.
+
+Source preservation: all three SHA-256 hashes match the originals before this change. Tests compare rendered text and every source link, preserve the two lists of 3 and 16 items, and retain all 327 signature links in each Chinese version. The Chinese signatures use an expandable native disclosure; no signature section is invented for the English version. Original Markdown files and book manuscripts are unchanged.
+
+Automated verification: all 13 regression tests pass; Ruff formatting and lint pass; mypy reports no issues in seven source files; Python compilation and Git whitespace checks pass. The build produces 66 content routes and validates 71 HTML files and all 6,161 local links, plus EPUB and sitemap XML. The generated source-hash metadata is valid JSON, and the updated GitHub Actions YAML parses with both source-path triggers present. Temporary quality tools remain outside the repository; no production dependency was added.
+
+Browser verification in Chrome: all three declarations fit widths of 320, 768 and 1440 px with one page title, one current-language marker, two intact lists and no horizontal page overflow. Traditional Chinese and English were also visually checked at 390 px. Desktop light/dark and 320 px light/dark layouts were inspected. Language switching resets scroll, returning to the book reaches the homepage, the theme survives navigation and reload, keyboard Tab reaches the skip link and Enter focuses the main content, and expanding the Traditional Chinese signatures preserves 327 links without overflow. Source links point to their unchanged originals. Navigation and signature disclosure are native HTML and do not depend on JavaScript.
+
+Accessibility adjustment: darkened muted text so the small language-navigation and return links meet a 4.5:1 contrast ratio against the surrounding paper background. Print colors also override the dark palette explicitly.
+
+A read-only Codex review of the complete declaration-reader change found no actionable issues. No blocking quality findings remain. The update uses the existing GitHub Pages build and deployment workflow.

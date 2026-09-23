@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import copy
+import hashlib
 import json
 import re
 import shutil
@@ -12,6 +13,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from content import LANGUAGES, ROOT, compile_edition, inline_text, nodes, pandoc
+from declarations import DECLARATIONS, load_declaration, render_declaration
 from render import TEXT, Renderer
 
 SITE = Path(__file__).resolve().parent
@@ -218,6 +220,10 @@ def build(
                 renderer.article(lang, key, page["title"], html, sections),
             )
         download(docs[lang], lang, output / "downloads")
+    for edition in DECLARATIONS:
+        write(
+            edition.route, render_declaration(load_declaration(edition), base, origin)
+        )
     shutil.copytree(SITE / "assets", output / "assets", dirs_exist_ok=True)
     (output / ".nojekyll").touch()
     missing = (
@@ -254,6 +260,15 @@ def build(
                 "routes": routes,
                 "revision": "2026-09-17",
                 "languages": list(LANGUAGES),
+                "declarations": {
+                    edition.route: {
+                        "source": str(edition.source.relative_to(ROOT.parent)),
+                        "sha256": hashlib.sha256(
+                            edition.source.read_bytes()
+                        ).hexdigest(),
+                    }
+                    for edition in DECLARATIONS
+                },
             },
             indent=2,
         )

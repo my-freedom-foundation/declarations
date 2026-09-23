@@ -3,9 +3,9 @@ name: Publish the book
 on:
   push:
     branches: [main]
-    paths: ["book/**", ".github/workflows/pages.yml"]
+    paths: ["book/**", "mainland-china-liberty/**", ".github/workflows/pages.yml"]
   pull_request:
-    paths: ["book/**", ".github/workflows/pages.yml"]
+    paths: ["book/**", "mainland-china-liberty/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
 
 permissions:

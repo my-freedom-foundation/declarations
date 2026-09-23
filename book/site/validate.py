@@ -82,8 +82,11 @@ def validate(root):
                     errors.append(f"{path}: missing fragment {link}")
             except ValueError as error:
                 errors.append(f"{path}: {error}")
-    if len(manifest["routes"]) != 63:
-        errors.append("Expected 63 content routes")
+    if len(manifest["routes"]) != 66:
+        errors.append("Expected 66 content routes")
+    for language in ("zh-Hans", "zh-Hant", "en"):
+        if not (root / "original" / language / "index.html").is_file():
+            errors.append(f"Missing original declaration: {language}")
     for language in ("zh", "en"):
         for chapter in range(1, 13):
             for prefix in ("", "notes/"):

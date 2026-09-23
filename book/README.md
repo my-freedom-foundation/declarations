@@ -47,8 +47,11 @@ The configured project URL is `https://my-freedom-foundation.github.io/declarati
 | A particular source note | `/declarations/zh/notes/chapter-07/#ch07-f01` |
 | EPUB download | `/declarations/downloads/privilege-and-freedom-zh.epub` |
 | Single-page reading edition | `/declarations/downloads/privilege-and-freedom-zh.html` |
+| Original declaration (Simplified Chinese) | `/declarations/original/zh-Hans/` |
+| Original declaration (Traditional Chinese) | `/declarations/original/zh-Hant/` |
+| Original declaration (English) | `/declarations/original/en/` |
 
-Only `_site/` is deployed. Existing declarations remain unchanged and are linked to their GitHub locations. Source attribution and qualifications in the manuscripts are preserved; linked external sources may change independently of this repository.
+Only `_site/` is deployed. The three original declaration files remain unchanged. Their homepage links open local reading pages, each with a link to its original GitHub source. Source attribution and qualifications in the manuscripts are preserved; linked external sources may change independently of this repository.
 
 The title changed to **Privilege and Freedom: Who Makes the Rules, Who Pays the Price / 特权与自由：谁制定规则，谁承担代价** on 23 September 2026. Downloads use `privilege-and-freedom-{en,zh}`; the previous `in-the-peoples-name-{en,zh}` URLs serve identical updated copies so shared links keep working. Chapter URLs and the manuscript cutoff are unchanged.
 
@@ -72,3 +75,13 @@ Acceptance evidence:
 ## Implementation boundaries
 
 `site/content.py` handles Markdown and full-edition assembly; `site/build.py` handles page splitting, citation backlinks and output; `site/render.py` owns localized page templates and navigation. `site/validate.py` checks generated artifacts. Styling and browser enhancements are local assets. The build uses Pandoc's `markdown-smart` reader to preserve CJK-adjacent links and parenthesized destinations.
+
+## Original declaration reading pages
+
+**Reader story:** a visitor follows one of the three original-declaration links on the homepage, reads that declaration in a comfortable document layout, switches language, expands the supplied Chinese signatures, or follows the source link to GitHub.
+
+The pages use warm paper surfaces, serif typography with local Chinese and Latin font fallbacks, spacious paragraphs and lists, and the book's existing light/dark preference. They have no external font dependency. The original texts, list styles and signature links are preserved; the English source has no signature section, so none is added. Navigation uses ordinary links and the signatures use native HTML disclosure, both usable without JavaScript.
+
+`site/declarations.py` reads `mainland-china-liberty/cn/dec-simplified.md`, `mainland-china-liberty/cn/dec.md` and `mainland-china-liberty/en/dec.md` directly without writing to them. It uses Pandoc's GFM reader so lists without preceding blank lines retain their structure. Raw HTML is disabled. The generated `build.json` records the SHA-256 of each input. Changes to those source paths also trigger the existing Pages workflow.
+
+Acceptance evidence includes exact rendered text and link comparisons against all three originals, two lists of 3 and 16 items per language, correct language/canonical metadata, preserved source hashes, and phone/desktop browser checks. The page-specific CSS is loaded only by declaration pages, keeping book chapter styling unchanged.
