@@ -45,10 +45,12 @@ The configured project URL is `https://my-freedom-foundation.github.io/declarati
 | Corresponding English chapter | `/declarations/en/chapter-07/` |
 | Chapter 7 sources | `/declarations/zh/notes/chapter-07/` |
 | A particular source note | `/declarations/zh/notes/chapter-07/#ch07-f01` |
-| EPUB download | `/declarations/downloads/in-the-peoples-name-zh.epub` |
-| Single-page reading edition | `/declarations/downloads/in-the-peoples-name-zh.html` |
+| EPUB download | `/declarations/downloads/privilege-and-freedom-zh.epub` |
+| Single-page reading edition | `/declarations/downloads/privilege-and-freedom-zh.html` |
 
 Only `_site/` is deployed. Existing declarations remain unchanged and are linked to their GitHub locations. Source attribution and qualifications in the manuscripts are preserved; linked external sources may change independently of this repository.
+
+The title changed to **Privilege and Freedom: Who Makes the Rules, Who Pays the Price / 特权与自由：谁制定规则，谁承担代价** on 23 September 2026. Downloads use `privilege-and-freedom-{en,zh}`; the previous `in-the-peoples-name-{en,zh}` URLs serve identical updated copies so shared links keep working. Chapter URLs and the manuscript cutoff are unchanged.
 
 ## Reader experience and acceptance criteria
 

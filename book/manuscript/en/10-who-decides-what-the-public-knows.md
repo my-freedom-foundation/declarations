@@ -1,6 +1,6 @@
 # Chapter Ten　Who Decides What the Public Knows?
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.6 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.6 · 17 September 2026*
 
 ## How a warning becomes an admonition
 

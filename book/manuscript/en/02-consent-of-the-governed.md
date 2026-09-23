@@ -1,6 +1,6 @@
 # Chapter Two · Who Authorizes Government?
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.3 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.3 · 17 September 2026*
 
 ## After independence, still asking for freedom
 

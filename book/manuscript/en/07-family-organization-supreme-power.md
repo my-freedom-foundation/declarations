@@ -1,6 +1,6 @@
 # Chapter Seven · Family, Organization and Supreme Power
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.4 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.4 · 17 September 2026*
 
 ## The political assets a family leaves behind
 

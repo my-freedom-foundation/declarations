@@ -48,3 +48,14 @@ A Codex review ran with `sandbox_mode="read-only"` using GPT-5.5 (the installed 
 Local implementation, verification, and read-only review are complete. Live deployment has not run. The GitHub CLI account available during implementation, `Thomas-sls`, reports read-only access to this public repository; SSH authentication also fails. An account with repository write access and Pages administration permission is required to push and enable GitHub Actions as the Pages source. No X posts were created.
 
 External-source availability and the book's factual assertions were not re-audited in this website implementation. Existing manuscript wording and qualifications were retained.
+
+
+## Title rename — 23 September 2026
+
+Updated the website and both language editions to **Privilege and Freedom: Who Makes the Rules, Who Pays the Price / 特权与自由：谁制定规则，谁承担代价**. Chapter routes and body text are unchanged. Downloads now use `privilege-and-freedom-{en,zh}`; old URLs serve identical updated copies.
+
+Verification: Ruff formatting and lint pass; mypy passes all five source files; Python compilation/indentation and nine regression tests pass. Build and validation pass for 63 routes, 68 HTML files and 6,128 local links. EPUB metadata uses the new title. All 36 manuscript bodies match the previous commit after excluding editorial title/version lines. Chrome desktop and 390 px mobile previews show readable titles/subtitles without horizontal overflow; language switching and new download targets were checked.
+
+A read-only Codex review found one issue in promotion bookkeeping: the current X verification still described the initial 16-post schedule after two announcements had published. Resolved by preserving `initial_scheduling_verification` separately and recording the current 14 scheduled / 2 published state. Counts and draft/published distinctions were then asserted against individual post statuses. No unresolved review finding remains.
+
+The two revised launch texts are local drafts, not replacement publications. Published-post deletion status is tracked in `promotion/x-launch.json`; the remaining 14 scheduled entries contain no old book title.

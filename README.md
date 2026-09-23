@@ -2,9 +2,9 @@
 
 Declarations about liberty, human rights, and democracy, and the bilingual book they inspired.
 
-## In the People's Name / 以人民之名
+## Privilege and Freedom / 特权与自由
 
-*Privilege, Revolution, and Unaccountable Power / 特权、革命与不受约束的权力*
+*Who Makes the Rules, Who Pays the Price / 谁制定规则，谁承担代价*
 
 The book website contains separate Chinese and English editions, twelve chapters per edition, appendices, and chapter-specific source notes. Every chapter has a stable URL, a matching language switch, and previous/next navigation. EPUB and standalone HTML editions are generated from the same manuscripts.
 

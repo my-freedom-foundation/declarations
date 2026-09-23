@@ -2,13 +2,15 @@
 
 Account: **@TnT39530675**. Format: **16 standalone posts**, one English and one Chinese each day for eight days. Time zone: **America/New_York** (EDT, UTC−04:00 for these dates). The release cadence was selected by the user; times are 09:00 English and 20:00 Chinese.
 
-**Status: all 16 posts scheduled in X and verified on September 21, 2026.** Every saved entry matched the exact text, URL, date, and time below, with no duplicates. These are scheduled posts; publication begins September 22. View or edit them in [X’s Scheduled queue](https://x.com/compose/post/unsent/scheduled) while signed in as @TnT39530675. X will publish them without this Codex session remaining open.
+**Status checked September 23, 2026: 14 posts remain scheduled; the two September 22 launch announcements are published and pending removal.** The book is now **Privilege and Freedom / 特权与自由**. The revised launch text below is saved as a draft only, not scheduled or republished. The remaining 14 entries have no old-title references and retain their verified text, URLs, dates, and times. View them in [X’s Scheduled queue](https://x.com/compose/post/unsent/scheduled) while signed in as @TnT39530675.
+
+Published announcements pending removal: [English](https://x.com/TnT39530675/status/2102382404174537088) and [Chinese](https://x.com/TnT39530675/status/2102548502526013950). Their original text is preserved separately as `published_text` in `x-launch.json`. The revised text below does not describe what is currently live.
 
 ## Release calendar
 
 | Date | 09:00 English | 20:00 Chinese | Topic |
 | --- | --- | --- | --- |
-| 2026-09-22 | en-01 | zh-01 | Book launch |
+| 2026-09-22 | en-01 (published; removal pending) | zh-01 (published; removal pending) | Original launch date; revised copy below is draft only |
 | 2026-09-23 | en-02 | zh-02 | Equality and communist revolution |
 | 2026-09-24 | en-03 | zh-03 | CCP rule and accountability |
 | 2026-09-25 | en-04 | zh-04 | Markets and political power |
@@ -19,14 +21,14 @@ Account: **@TnT39530675**. Format: **16 standalone posts**, one English and one 
 
 ## Checks
 
-All posts pass the standard 280-weighted-character limit using `twitter-text` 3.1.0 and [X’s documented counting rules](https://docs.x.com/fundamentals/counting-characters). All 32 distinct book/context/source-note URLs were reachable. A read-only Codex editorial review found no actionable publication errors. Only thread numbering was removed after the daily release plan was selected; wording and references are unchanged.
+All posts pass the standard 280-weighted-character limit using `twitter-text` 3.1.0 and [X’s documented counting rules](https://docs.x.com/fundamentals/counting-characters). All 32 distinct book/context/source-note URLs were reachable. A read-only Codex editorial review found no actionable publication errors. The September 23 rename changes only the book title in the two launch drafts; all 16 current draft/scheduled texts were rechecked with the same character counter.
 
 The exact copy is inside each text block. Context/source-note links outside the blocks are editorial references, not extra posting text. No account password, cookie, or token is stored here.
 
-## en-01 · 2026-09-22T09:00:00-04:00 · 235/280
+## en-01 · Revised draft, not scheduled · 236/280
 
 ```text
-Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: In the People's Name.
+Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: Privilege and Freedom.
 
 No party owns a country. No leader owns its people.
 
@@ -36,12 +38,12 @@ https://my-freedom-foundation.github.io/declarations/en/
 
 [Chapter context / source notes](https://my-freedom-foundation.github.io/declarations/en/preface/)
 
-## zh-01 · 2026-09-22T20:00:00-04:00 · 226/280
+## zh-01 · Revised draft, not scheduled · 226/280
 
 ```text
 四年前，我写下了一份关于中国大陆自由的宣言。
 
-现在，它扩展成《以人民之名》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。
+现在，它扩展成《特权与自由》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。
 
 没有哪个党可以拥有一个国家。
 

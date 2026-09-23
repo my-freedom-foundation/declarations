@@ -131,7 +131,7 @@ def body_html(document, page, language):
 
 def download(document, language, output):
     text = json.dumps(document, ensure_ascii=False)
-    stem = output / f"in-the-peoples-name-{language}"
+    stem = output / f"privilege-and-freedom-{language}"
     for extension, args in [
         (
             "epub",
@@ -160,6 +160,11 @@ def download(document, language, output):
                 str(stem.with_suffix("." + extension)),
             ],
             text,
+        )
+        # Existing download URLs remain valid after the title change.
+        shutil.copyfile(
+            stem.with_suffix("." + extension),
+            output / f"in-the-peoples-name-{language}.{extension}",
         )
 
 

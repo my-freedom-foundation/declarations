@@ -1,6 +1,6 @@
 # Chapter Eight · Hong Kong After the Handover
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.2 · 15 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.2 · 15 September 2026*
 
 ## Sovereignty changes hands: how do residents gain a say?
 

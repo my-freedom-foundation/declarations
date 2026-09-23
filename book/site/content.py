@@ -12,11 +12,11 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "downloads"
 DATE = "2026-09-16"
 LANGUAGES = {
-    "zh": ("zh-CN", "以人民之名", "特权、革命与不受约束的权力", "目录", "完整阅读稿"),
+    "zh": ("zh-CN", "特权与自由", "谁制定规则，谁承担代价", "目录", "完整阅读稿"),
     "en": (
         "en-US",
-        "In the People's Name",
-        "Privilege, Revolution, and Unaccountable Power",
+        "Privilege and Freedom",
+        "Who Makes the Rules, Who Pays the Price",
         "Contents",
         "Complete reading draft",
     ),

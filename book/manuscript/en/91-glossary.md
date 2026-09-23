@@ -1,6 +1,6 @@
 # Appendix B　Key Terms
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.2 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.2 · 17 September 2026*
 
 These thirty-five entries follow the book's questions: liberty and restraint first, relationships and interests next, then evidence, judgment, and institutional vocabulary. They explain how the terms are used here. Matching identifiers connect the English and Chinese editions.
 

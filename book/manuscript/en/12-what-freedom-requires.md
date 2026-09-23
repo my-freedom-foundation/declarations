@@ -1,6 +1,6 @@
 # Chapter Twelve　What Freedom Requires
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.2 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.2 · 17 September 2026*
 
 ## When dissenters can carry on with their lives
 

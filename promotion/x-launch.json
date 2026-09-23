@@ -1,7 +1,7 @@
 {
   "account": "TnT39530675",
   "book_url": "https://my-freedom-foundation.github.io/declarations/",
-  "status": "scheduled",
+  "status": "14_scheduled_2_published_pending_removal",
   "release_plan": {
     "timezone": "America/New_York",
     "start_date": "2026-09-22",
@@ -14,28 +14,34 @@
     {
       "id": "en-01",
       "chapter": "preface",
-      "text": "Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: In the People's Name.\n\nNo party owns a country. No leader owns its people.\n\nRead the free English edition, with sources:\nhttps://my-freedom-foundation.github.io/declarations/en/",
-      "weighted_length": 235,
+      "text": "Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: Privilege and Freedom.\n\nNo party owns a country. No leader owns its people.\n\nRead the free English edition, with sources:\nhttps://my-freedom-foundation.github.io/declarations/en/",
+      "weighted_length": 236,
       "reference": "https://my-freedom-foundation.github.io/declarations/en/preface/",
       "language": "en",
       "scheduled_for": "2026-09-22T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-22T13:00:00+00:00",
-      "status": "scheduled",
+      "status": "published_pending_removal",
       "x_confirmation": "Will send on Tue, Sep 22, 2026 at 9:00 AM",
-      "verified_at_utc": "2026-09-21T18:28:18+00:00"
+      "verified_at_utc": "2026-09-21T18:28:18+00:00",
+      "published_text": "Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: In the People's Name.\n\nNo party owns a country. No leader owns its people.\n\nRead the free English edition, with sources:\nhttps://my-freedom-foundation.github.io/declarations/en/",
+      "revised_copy_status": "draft_not_scheduled",
+      "published_url": "https://x.com/TnT39530675/status/2102382404174537088"
     },
     {
       "id": "zh-01",
       "chapter": "preface",
-      "text": "四年前，我写下了一份关于中国大陆自由的宣言。\n\n现在，它扩展成《以人民之名》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。\n\n没有哪个党可以拥有一个国家。\n\n中文全文免费，附章节注释：\nhttps://my-freedom-foundation.github.io/declarations/zh/",
+      "text": "四年前，我写下了一份关于中国大陆自由的宣言。\n\n现在，它扩展成《特权与自由》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。\n\n没有哪个党可以拥有一个国家。\n\n中文全文免费，附章节注释：\nhttps://my-freedom-foundation.github.io/declarations/zh/",
       "weighted_length": 226,
       "reference": "https://my-freedom-foundation.github.io/declarations/zh/preface/",
       "language": "zh",
       "scheduled_for": "2026-09-22T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-23T00:00:00+00:00",
-      "status": "scheduled",
+      "status": "published_pending_removal",
       "x_confirmation": "Will send on Tue, Sep 22, 2026 at 8:00 PM",
-      "verified_at_utc": "2026-09-21T18:28:18+00:00"
+      "verified_at_utc": "2026-09-21T18:28:18+00:00",
+      "published_text": "四年前，我写下了一份关于中国大陆自由的宣言。\n\n现在，它扩展成《以人民之名》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。\n\n没有哪个党可以拥有一个国家。\n\n中文全文免费，附章节注释：\nhttps://my-freedom-foundation.github.io/declarations/zh/",
+      "revised_copy_status": "draft_not_scheduled",
+      "published_url": "https://x.com/TnT39530675/status/2102548502526013950"
     },
     {
       "id": "en-02",
@@ -220,7 +226,14 @@
       "verified_at_utc": "2026-09-21T18:28:18+00:00"
     }
   ],
-  "verification": {
+  "title_change": {
+    "date": "2026-09-23",
+    "title_en": "Privilege and Freedom: Who Makes the Rules, Who Pays the Price",
+    "title_zh": "特权与自由：谁制定规则，谁承担代价",
+    "remaining_queue": "All 14 remaining posts were inspected in X. None uses the old book title; their text and schedule remain unchanged.",
+    "revised_launch_copy": "Drafts only; not posted or scheduled."
+  },
+  "initial_scheduling_verification": {
     "verified_at_utc": "2026-09-21T18:28:18+00:00",
     "method": "Read back all 16 entries in the signed-in account’s native X Scheduled queue and matched exact text, URLs, dates and times.",
     "queue_url": "https://x.com/compose/post/unsent/scheduled",
@@ -228,5 +241,13 @@
     "duplicate_count": 0,
     "x_displayed_timezone": "Eastern Daylight Time",
     "publication_status": "Scheduled for future publication; not yet published."
+  },
+  "verification": {
+    "verified_at_utc": "2026-09-23T04:30:43+00:00",
+    "method": "Inspected all 14 entries in the native X Scheduled queue and both published launch announcements. Remaining text, URLs, dates and times match the recorded schedule.",
+    "queue_url": "https://x.com/compose/post/unsent/scheduled",
+    "scheduled_post_count": 14,
+    "published_post_count": 2,
+    "publication_status": "Two old-title announcements are published and pending removal. Revised launch text is a local draft only; the remaining 14 posts are scheduled and contain no old book title."
   }
 }

@@ -1,6 +1,6 @@
 # Chapter One · Born Unequal
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.3 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.3 · 17 September 2026*
 
 ## A status waiting before birth
 

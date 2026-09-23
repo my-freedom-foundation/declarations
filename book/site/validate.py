@@ -92,7 +92,7 @@ def validate(root):
                 ).is_file():
                     errors.append(f"Missing chapter {language}/{prefix}{chapter}")
         with zipfile.ZipFile(
-            root / "downloads" / f"in-the-peoples-name-{language}.epub"
+            root / "downloads" / f"privilege-and-freedom-{language}.epub"
         ) as epub:
             if epub.read("mimetype") != b"application/epub+zip":
                 errors.append(f"Invalid EPUB mimetype: {language}")

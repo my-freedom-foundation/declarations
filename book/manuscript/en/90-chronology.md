@@ -1,6 +1,6 @@
 # Appendix A　A Select Chronology
 
-*In the People's Name: Privilege, Revolution, and Unaccountable Power · English draft v0.2 · 17 September 2026*
+*Privilege and Freedom: Who Makes the Rules, Who Pays the Price · English draft v0.2 · 17 September 2026*
 
 These thirty-five entries place the book's discussion of status, consent, organizational power, and public accountability in time. Dates retain the precision supported by the chapters and shared source records. Events, adoption of texts, later recollections, and release of records are identified separately. Each entry links to the relevant source record, which provides the underlying document and its scope.
 
