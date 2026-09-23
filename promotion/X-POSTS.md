@@ -2,15 +2,15 @@
 
 Account: **@TnT39530675**. Format: **16 standalone posts**, one English and one Chinese each day for eight days. Time zone: **America/New_York** (EDT, UTC−04:00 for these dates). The release cadence was selected by the user; times are 09:00 English and 20:00 Chinese.
 
-**Status checked September 23, 2026: 14 posts remain scheduled; the two September 22 launch announcements are published and pending removal.** The book is now **Privilege and Freedom / 特权与自由**. The revised launch text below is saved as a draft only, not scheduled or republished. The remaining 14 entries have no old-title references and retain their verified text, URLs, dates, and times. View them in [X’s Scheduled queue](https://x.com/compose/post/unsent/scheduled) while signed in as @TnT39530675.
+**Status checked September 23, 2026: 14 posts remain scheduled; the two September 22 launch announcements were deleted after explicit final user confirmation.** The book is now **Privilege and Freedom / 特权与自由**. The revised launch text below is saved as a draft only, not scheduled or republished. The remaining 14 entries have no old-title references and retain their verified text, URLs, dates, and times. View them in [X’s Scheduled queue](https://x.com/compose/post/unsent/scheduled) while signed in as @TnT39530675.
 
-Published announcements pending removal: [English](https://x.com/TnT39530675/status/2102382404174537088) and [Chinese](https://x.com/TnT39530675/status/2102548502526013950). Their original text is preserved separately as `published_text` in `x-launch.json`. The revised text below does not describe what is currently live.
+Deleted announcements (both exact URLs verified unavailable): [English](https://x.com/TnT39530675/status/2102382404174537088) and [Chinese](https://x.com/TnT39530675/status/2102548502526013950). Their original text is preserved separately as `published_text` in `x-launch.json`. The revised text below has not been posted or scheduled.
 
 ## Release calendar
 
 | Date | 09:00 English | 20:00 Chinese | Topic |
 | --- | --- | --- | --- |
-| 2026-09-22 | en-01 (published; removal pending) | zh-01 (published; removal pending) | Original launch date; revised copy below is draft only |
+| 2026-09-22 | en-01 (deleted) | zh-01 (deleted) | Original launch date; revised copy below is draft only |
 | 2026-09-23 | en-02 | zh-02 | Equality and communist revolution |
 | 2026-09-24 | en-03 | zh-03 | CCP rule and accountability |
 | 2026-09-25 | en-04 | zh-04 | Markets and political power |

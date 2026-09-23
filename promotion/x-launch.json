@@ -1,7 +1,7 @@
 {
   "account": "TnT39530675",
   "book_url": "https://my-freedom-foundation.github.io/declarations/",
-  "status": "14_scheduled_2_published_pending_removal",
+  "status": "14_scheduled_2_deleted",
   "release_plan": {
     "timezone": "America/New_York",
     "start_date": "2026-09-22",
@@ -20,12 +20,14 @@
       "language": "en",
       "scheduled_for": "2026-09-22T09:00:00-04:00",
       "scheduled_for_utc": "2026-09-22T13:00:00+00:00",
-      "status": "published_pending_removal",
+      "status": "deleted",
       "x_confirmation": "Will send on Tue, Sep 22, 2026 at 9:00 AM",
       "verified_at_utc": "2026-09-21T18:28:18+00:00",
       "published_text": "Four years ago, I wrote a declaration for freedom in mainland China. It has become a book: In the People's Name.\n\nNo party owns a country. No leader owns its people.\n\nRead the free English edition, with sources:\nhttps://my-freedom-foundation.github.io/declarations/en/",
       "revised_copy_status": "draft_not_scheduled",
-      "published_url": "https://x.com/TnT39530675/status/2102382404174537088"
+      "published_url": "https://x.com/TnT39530675/status/2102382404174537088",
+      "deleted_at_utc": "2026-09-23T04:33:41+00:00",
+      "deletion_verification": "Deleted through the signed-in X UI after explicit final user confirmation; reopening the exact post URL showed that the page does not exist."
     },
     {
       "id": "zh-01",
@@ -36,12 +38,14 @@
       "language": "zh",
       "scheduled_for": "2026-09-22T20:00:00-04:00",
       "scheduled_for_utc": "2026-09-23T00:00:00+00:00",
-      "status": "published_pending_removal",
+      "status": "deleted",
       "x_confirmation": "Will send on Tue, Sep 22, 2026 at 8:00 PM",
       "verified_at_utc": "2026-09-21T18:28:18+00:00",
       "published_text": "四年前，我写下了一份关于中国大陆自由的宣言。\n\n现在，它扩展成《以人民之名》：追问共产主义的平等承诺如何变成支配，人民怎样约束声称代表自己的权力。\n\n没有哪个党可以拥有一个国家。\n\n中文全文免费，附章节注释：\nhttps://my-freedom-foundation.github.io/declarations/zh/",
       "revised_copy_status": "draft_not_scheduled",
-      "published_url": "https://x.com/TnT39530675/status/2102548502526013950"
+      "published_url": "https://x.com/TnT39530675/status/2102548502526013950",
+      "deleted_at_utc": "2026-09-23T04:33:41+00:00",
+      "deletion_verification": "Deleted through the signed-in X UI after explicit final user confirmation; reopening the exact post URL showed that the page does not exist."
     },
     {
       "id": "en-02",
@@ -243,11 +247,12 @@
     "publication_status": "Scheduled for future publication; not yet published."
   },
   "verification": {
-    "verified_at_utc": "2026-09-23T04:30:43+00:00",
-    "method": "Inspected all 14 entries in the native X Scheduled queue and both published launch announcements. Remaining text, URLs, dates and times match the recorded schedule.",
+    "verified_at_utc": "2026-09-23T04:33:41+00:00",
+    "method": "Inspected all 14 native X Scheduled entries; after confirmed deletion, opened both original post URLs and observed the page-does-not-exist result.",
     "queue_url": "https://x.com/compose/post/unsent/scheduled",
     "scheduled_post_count": 14,
-    "published_post_count": 2,
-    "publication_status": "Two old-title announcements are published and pending removal. Revised launch text is a local draft only; the remaining 14 posts are scheduled and contain no old book title."
+    "published_post_count": 0,
+    "publication_status": "Both old-title launch announcements were deleted and their exact URLs verified unavailable. Revised launch text remains local draft copy; 14 unchanged posts remain scheduled.",
+    "deleted_post_count": 2
   }
 }
